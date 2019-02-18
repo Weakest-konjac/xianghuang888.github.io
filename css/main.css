@@ -2994,19 +2994,3 @@ ul.breadcrumb li+li:last-child {
     text-align: justify;
   }
 }
-body {
-  background: url("https://i.loli.net/2019/02/16/5c67f83236ef6.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center center;
-  background-size: 100% 100%;
-}
-.header-inner {
-  opacity: 0.9;
-}
-.main-inner {
-  opacity: 0.9;
-}
-.sidebar {
-  opacity: 0.8;
-}
